@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "paYPY1ATrferjH7t+dDafhFnha4EYzEZYXW8qMR+WwtqLyoT/JuKIcH7PeC5xIpvT4NfLdipkeC1XEfIdKYRqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rangisetty.R\\Source\\Repos\\AppServicesDemo\\AppServicesDemo\\AppServicesDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rangisetty.R\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
